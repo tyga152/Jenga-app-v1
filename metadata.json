@@ -1,0 +1,6 @@
+{
+  "name": "Jenga - BTP & Construction RDC",
+  "description": "Plateforme mobile pour le secteur du bâtiment et des travaux publics en République Démocratique du Congo. Connecte clients, artisans, architectes, ingénieurs, entrepreneurs et fournisseurs de matériaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
